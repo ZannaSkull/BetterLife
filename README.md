@@ -21,7 +21,6 @@ Il progetto è collaborativo e aperto a contributi da chiunque voglia partecipar
 - Valuta la qualità nutrizionale degli alimenti  
 - Segnala ingredienti potenzialmente dannosi o controversi  
 - Consiglia alternative più sane  
-- Disponibile per iOS e Android  
 
 ## FoodAdvisor
 
